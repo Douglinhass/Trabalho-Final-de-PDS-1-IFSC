@@ -1,2 +1,2 @@
 # PDS-1
-Trabalho final de Práticas em Desenvolvimento de Sistemas-1 do IFSC Gaspar
+Projeto Final da disclina de Práticas em Desenvolvimento de Sistemas do curso técnico em Informática do IFSC - Campus Gaspar
